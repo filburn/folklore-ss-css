@@ -9,6 +9,7 @@ form {
 
 fieldset li label {
   color: white;
+  display: block;
 }
 
 .button {
@@ -18,13 +19,16 @@ fieldset li label {
   border-radius: 20px;
   box-shadow: none;
   color: white;
+  font-family: Georgia, serif;
   font-weight: normal;
   height: 42px;
+  text-shadow: none;
   width: 25%;
 }
 
 .button:hover {
   background-color: #7c7c83;
+  background-image: none;
   border-color: #7c7c83;
 }
 

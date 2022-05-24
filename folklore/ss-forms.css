@@ -1,17 +1,24 @@
 body {
+  color: white;
   font-family: Georgia, serif;
+}
+
+form {
+  background-color: #3c3b3b;
 }
 
 button {
   background-color: #77212c;
+  border: 1px solid #e5dfdf;
   border-radius: 20px;
-  color: white;
+  font-weight: normal;
   height: 42px;
   width: 25%;
 }
 
 button:hover {
   background-color: #7c7c83;
+  border-color: #7c7c83;
 }
 
 fieldset ul li {

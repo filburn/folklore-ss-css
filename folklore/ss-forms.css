@@ -7,8 +7,12 @@ form {
   background-color: #3c3b3b;
 }
 
+fieldset li label {
+  color: white;
+}
+
 button {
-  background-color: #77212c;
+  background: #77212c;
   border: 1px solid #e5dfdf;
   border-radius: 20px;
   font-weight: normal;

@@ -1,0 +1,19 @@
+body {
+  font-family: Georgia, serif;
+}
+
+button {
+  background-color: #77212c;
+  border-radius: 20px;
+  color: white;
+  height: 42px;
+  width: 25%;
+}
+
+button:hover {
+  background-color: #7c7c83;
+}
+
+fieldset ul li {
+  margin-bottom:10px;
+}

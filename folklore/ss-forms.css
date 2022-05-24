@@ -12,6 +12,7 @@ fieldset li label {
   display: block;
 }
 
+button,
 form #submit_button,
 .button {
   background-color: #77212c;
@@ -27,6 +28,7 @@ form #submit_button,
   width: 25%;
 }
 
+button:hover,
 form #submit_button:hover,
 .button:hover {
   background-color: #7c7c83;

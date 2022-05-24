@@ -11,16 +11,19 @@ fieldset li label {
   color: white;
 }
 
-button {
-  background: #77212c;
+.button {
+  background-color: #77212c;
+  background-image: none;
   border: 1px solid #e5dfdf;
   border-radius: 20px;
+  box-shadow: none;
+  color: white;
   font-weight: normal;
   height: 42px;
   width: 25%;
 }
 
-button:hover {
+.button:hover {
   background-color: #7c7c83;
   border-color: #7c7c83;
 }

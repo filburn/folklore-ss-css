@@ -1,6 +1,6 @@
 body {
   color: white;
-  font-family: Georgia, serif;
+  font-family: inherit;
 }
 
 form {
@@ -21,7 +21,8 @@ form #submit_button,
   border-radius: 20px;
   box-shadow: none;
   color: white;
-  font-family: Georgia, serif;
+  font-family: inherit;
+  font-size: inherit;
   font-weight: normal;
   height: 42px;
   text-shadow: none;
